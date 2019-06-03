@@ -8,6 +8,7 @@ class Test
         alert(this.DiHola());
     }
 
+    //Funciones
     DiHola()
     {
         return "Hola " + this.Name;
